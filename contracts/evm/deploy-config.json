@@ -1,0 +1,23 @@
+{
+  "ethereum": {
+    "chainId": 1,
+    "name": "Ethereum Mainnet",
+    "rpcUrl": "https://eth-mainnet.g.alchemy.com/v2/YOUR_API_KEY",
+    "explorerUrl": "https://etherscan.io",
+    "nativeCurrency": "ETH"
+  },
+  "base": {
+    "chainId": 8453,
+    "name": "Base Mainnet",
+    "rpcUrl": "https://mainnet.base.org",
+    "explorerUrl": "https://basescan.org",
+    "nativeCurrency": "ETH"
+  },
+  "bnb": {
+    "chainId": 56,
+    "name": "BNB Smart Chain",
+    "rpcUrl": "https://bsc-dataseed.binance.org",
+    "explorerUrl": "https://bscscan.com",
+    "nativeCurrency": "BNB"
+  }
+}
